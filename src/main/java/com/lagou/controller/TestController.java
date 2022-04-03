@@ -8,6 +8,8 @@ public class TestController {
 
 	@RequestMapping("/test")
 	public String test(){
+		System.out.println("------------444444444");
+
 		System.out.println("源码环境构建成功...");
 		return "源码环境构建成功";
 	}
