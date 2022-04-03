@@ -12,8 +12,6 @@ public class SpringBootMytestApplication{
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootMytestApplication.class, args);
 		System.out.println("------------11111111111");
-
-        System.out.println("------------22222222222");
 	}
 
 /*	@Override
